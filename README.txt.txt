@@ -1,0 +1,1 @@
+These are my solutions for Google hash code rounds starting from 2022 year. These solutions may not be very optimize but are optimize best to my knowledge and experience at the time of pushing. 🙂
